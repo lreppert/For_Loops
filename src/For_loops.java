@@ -10,7 +10,7 @@ public class For_loops {
         numArray[1][3] = 2;
         numArray[2][1] = 7;
         numArray[3][3] = 3;
-        numArray[3][0] = 8;
+        numArray[3][0] = 6;
         for (int i = 0; i < numArray.length; i++) {
             System.out.println();
             for (int j = 0; j < numArray[i].length; j++) {
